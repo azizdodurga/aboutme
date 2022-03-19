@@ -8,4 +8,4 @@
 
 ## License
 
-    [MIT](LICENSE)
+    MIT
