@@ -6,6 +6,8 @@
 
 [Kodluyoruz](https://www.kodluyoruz.org/) ekibine teşekkürler
 
+[Patika](www.patika.dev)
+
 ## License
 
     MIT
